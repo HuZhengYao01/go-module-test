@@ -6,5 +6,3 @@ require (
 	github.com/kataras/golog v0.0.10 // indirect
 	github.com/kataras/iris v11.1.1+incompatible
 )
-
-replace github.com/HuZhengYao01/go-module-test => ./
